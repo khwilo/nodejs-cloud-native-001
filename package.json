@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-cloud-native-001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khwilo/nodejs-cloud-native-001.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Azure",
+    "Cloud Native"
+  ],
+  "author": "Khwilo Kabaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khwilo/nodejs-cloud-native-001/issues"
+  },
+  "homepage": "https://github.com/khwilo/nodejs-cloud-native-001#readme"
+}
